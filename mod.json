@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Chiv2-Community/zero-infra-mod-registry/v1/schemas/mod.schema.json",
+  "name": "CMW-Library",
+  "description": "Shared asset library for the Chivalry: Medieval Warfare map ports (CMW-Maps).",
+  "authors": [
+    "SageFlare"
+  ],
+  "repo_url": "https://github.com/SageFlare/CMW-Library",
+  "icon_url": null,
+  "image_urls": [],
+  "mod_dependencies": [],
+  "plugin_dependencies": [],
+  "mod_type": "Shared",
+  "tags": [
+    "Assets"
+  ],
+  "maps": [],
+  "options": {
+    "actor_mod": false
+  }
+}
